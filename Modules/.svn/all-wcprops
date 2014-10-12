@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/Sigma/!svn/ver/4/Sigma/Modules
+END
+MecanumDrive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Sigma/!svn/ver/5/Sigma/Modules/MecanumDrive.cpp
+END
+VisionTracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Sigma/!svn/ver/2/Sigma/Modules/VisionTracking.h
+END
+Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Sigma/!svn/ver/2/Sigma/Modules/Utilities.h
+END
+BridgeArm.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Sigma/!svn/ver/2/Sigma/Modules/BridgeArm.h
+END
+Shooter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Sigma/!svn/ver/5/Sigma/Modules/Shooter.cpp
+END
+MecanumDrive.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Sigma/!svn/ver/5/Sigma/Modules/MecanumDrive.h
+END
+PolyurethaneBelt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Sigma/!svn/ver/5/Sigma/Modules/PolyurethaneBelt.cpp
+END
+Shooter.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Sigma/!svn/ver/5/Sigma/Modules/Shooter.h
+END
+VisionTracking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Sigma/!svn/ver/5/Sigma/Modules/VisionTracking.cpp
+END
+PolyurethaneBelt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Sigma/!svn/ver/5/Sigma/Modules/PolyurethaneBelt.h
+END
+BridgeArm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Sigma/!svn/ver/5/Sigma/Modules/BridgeArm.cpp
+END
