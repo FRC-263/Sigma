@@ -58,6 +58,7 @@ void Shooter::DriveShooter(void *nshooter)
 	turretPotFeedback = (((float)(shooter->shooterAngle->GetAverageValue() - TURRET_POT_ADC_MIN))/TURRET_POT_ADC_MAX);
 	//printf("Pot Feedback: %f\n", turretPotFeedback);
 	ShooterInformation shooterInfo = shooter->shooterTracker->GetShooterInformation();
+
 	//Vision or Manual Mode
 	if(ds->GetEnhancedIO().GetDigital(DS_SHOOTER_MODE))
 	{
@@ -79,6 +80,7 @@ void Shooter::DriveShooter(void *nshooter)
 		}
 		//shooter->trackingPID->ResetPID();
 	}
+
 	else if(!ds->GetEnhancedIO().GetDigital(DS_SHOOTER_MODE)){
 		//turretSetpoint = turretPotFeedback;
 		if(shooter->shooterTracker->IsFreshData())
